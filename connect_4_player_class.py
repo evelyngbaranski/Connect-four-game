@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 #
-# ps10pr2.py (Problem Set 10, Problem 2)
 ## Author: Evelyn Baranski (evelynb@bu.edu), 8/7/21
 # A Connect Four Player class 
 #
 
 from ps10pr1 import Board
 
-# Write your class below.
 
 class Player:
     

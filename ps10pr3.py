@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 #
-# ps10pr3.py (Problem Set 10, Problem 3)
 ### Author: Evelyn Baranski (evelynb@bu.edu), 8/7/21
-# Playing the game
 #
+
+# Connect 4 game between 2 specified characters
 
 from ps10pr1 import Board
 from ps10pr2 import Player

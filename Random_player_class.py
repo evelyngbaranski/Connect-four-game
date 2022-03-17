@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 ##Author: Evelyn Baranski (evelynb@bu.edu), 8/12/21
-# ps11pr3.py (Problem Set 11, Problem 3)
 #
-# An RandomPlayer for use in Connect Four
+# A RandomPlayer for use in Connect Four
 #
 
 import random

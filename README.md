@@ -14,7 +14,7 @@ connect_four(Player('X'), AIPlayer('O', 'RANDOM', 3))
 - parameter for AIPlayer that's '3' is the lookahead number when assessing to move and score
 
 
-        <img width="143" alt="image" src="https://user-images.githubusercontent.com/98851183/158718882-85ebe320-a87b-4cd7-8abe-95a2b5636905.png"> <img width="144" alt="image" src="https://user-images.githubusercontent.com/98851183/158719260-9dcf4a6e-0be8-46a7-a30d-47bfed893387.png">
+<img width="143" alt="image" src="https://user-images.githubusercontent.com/98851183/158718882-85ebe320-a87b-4cd7-8abe-95a2b5636905.png"> <img width="144" alt="image" src="https://user-images.githubusercontent.com/98851183/158719260-9dcf4a6e-0be8-46a7-a30d-47bfed893387.png">
 
 
 

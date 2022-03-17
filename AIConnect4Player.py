@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-#
-# ps11pr4.py (Problem Set 11, Problem 4)
+#Evelyn Baranski - 
 #
 # An AI Player for use in Connect Four
 #

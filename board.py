@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 #
-# ps10pr1.py (Problem Set 10, Problem 1)
 ### Author: Evelyn Baranski (evelynb@bu.edu), 8/7/21
-#The Class Board
+
+
+#This file is craeting the Class Board
 
 class Board:
     
